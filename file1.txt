@@ -1,2 +1,6 @@
 My name is Nimit Sharma
 Here is my GitHub profile
+<<<<<<< HEAD
+=======
+Welcome to my first tutorial
+>>>>>>> New file added
